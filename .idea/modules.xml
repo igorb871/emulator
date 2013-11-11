@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/emulator.iml" filepath="$PROJECT_DIR$/emulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/procket/procket.iml" filepath="$PROJECT_DIR$/deps/procket/procket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/tunctl/tunctl.iml" filepath="$PROJECT_DIR$/deps/tunctl/tunctl.iml" />
+    </modules>
+  </component>
+</project>
+
